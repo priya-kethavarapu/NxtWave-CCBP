@@ -1,0 +1,2 @@
+# To push to git hub
+git push -u -f origin master
