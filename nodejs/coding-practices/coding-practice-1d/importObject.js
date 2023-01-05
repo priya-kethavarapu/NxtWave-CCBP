@@ -1,1 +1,1 @@
-const person = require("/exportObject.js");
+import person from "./exportObject.js";
